@@ -3,4 +3,4 @@
 
 <h3> You can see images below to know more about that: </h3>
 
-<img src="flask-blog-image/home-page.png"/>
+<img src="flask-blog-image/home-page.PNG"/>
