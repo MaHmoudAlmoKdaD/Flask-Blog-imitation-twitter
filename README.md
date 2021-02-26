@@ -7,4 +7,3 @@
 <img src="flask-blog-image/account.PNG"/>
 <img src="flask-blog-image/logiin.PNG"/>
 <img src="flask-blog-image/post.PNG"/>
-<img src="flask-blog-image/logiin.PNG"/>
